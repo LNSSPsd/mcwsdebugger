@@ -1,0 +1,21 @@
+module.exports={
+	username:"LNSSPsd",
+	uniqueId:"00010100-0000-b0a0-0001-02005d004e3f",
+	maxPlayerCount:5,
+	platForm:"Minecraft WebSocket Debugger",
+	gameMode:1,
+	buildSaveTo:"world.bdp",
+	helpprofile:"cn",
+	pos:[-3252,67,2360],
+	debug:false,
+	twoslashes:true,
+	disableDeflate:true,
+	removeTipColor:false,
+	removeWSColor:false,
+	removeAllColor:false,
+	disableLogo:false,
+	saveHistory:true,
+	showKey:true,
+	wsencrypt_protocol:false,
+	configname:__filename
+};

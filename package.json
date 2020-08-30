@@ -1,0 +1,24 @@
+{
+  "name": "mcwsdebugger",
+  "version": "1.0.0",
+  "description": "MCWSDEBUG",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LNSSPsd/mcwsdebugger.git"
+  },
+  "author": "LNSSPsd",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LNSSPsd/mcwsdebugger/issues"
+  },
+  "homepage": "https://github.com/LNSSPsd/mcwsdebugger#readme",
+  "dependencies": {
+    "asn1": "^0.2.4",
+    "libbdump": "0.0.1",
+    "ws": "^7.0.0"
+  }
+}
